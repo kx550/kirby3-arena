@@ -1,0 +1,17 @@
+{
+    "name": "kx550/arena",
+    "description": "Kirbytext plugin to embed Are.na channels",
+    "version": "0.1.0",
+    "type": "kirby-plugin",
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Duvendack",
+            "email": "timduvendack@gmail.com"
+        }
+    ]
+}
+i
